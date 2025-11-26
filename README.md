@@ -30,15 +30,6 @@ cd Communication-Analysis-Tool-for-Human-AI-Interaction-Driving-Simulator-Experi
   pip install -r requirement_visualization.txt
   
 
-### 3. Set Up Hugging Face API Token
-
-This project uses Hugging Face models. To authenticate:
-
-- Get your *Hugging Face API token* from [Hugging Face](https://huggingface.co/settings/tokens).
-- Set it in your environment:
-  bash
-  export HUGGING_FACE_HUB_TOKEN="your_token_here"
-  
 
 ## Running the Transcription and Analysis Pipeline
 
@@ -114,7 +105,4 @@ input_video_path = "path/to/your/video/*.mp4"
 ## Contribution Guidelines
 
 If you'd like to improve this tool, fork the repository and submit a pull request. Issues and suggestions are welcome.
-No instructions on how to run programs (particularly that file paths would need to be
-changed)
-Still worked, just missing that element from instructions
 
