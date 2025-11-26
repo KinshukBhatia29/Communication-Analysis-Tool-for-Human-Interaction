@@ -1,0 +1,22 @@
+torch==2.2.0
+torchvision==0.17.0
+torchaudio==2.2.0
+pyannote.audio==3.3.1
+openai-whisper==20231117
+transformers==4.34.0
+huggingface-hub==0.16.4
+tokenizers==0.14.1
+ffmpeg-python==0.2.0
+librosa==0.10.1
+pandas==2.2.2
+nltk==3.8.1
+seaborn==0.12.2
+matplotlib==3.7.1
+speechbrain==0.5.15
+resemblyzer==0.1.4
+webrtcvad==2.0.10
+scikit-learn==1.2.2
+soundfile==0.13.1
+spacy==3.6.1
+# spaCy model (direct wheel URL)
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
