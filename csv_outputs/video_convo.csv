@@ -1,0 +1,11 @@
+start_time,end_time,bucket_start,bucket_end,text,sentiment,named_entities,word_count,speaker
+0.0,5.28,0,5," It's a beautiful house. Do you both live here? Yes. Can I get a short house tour? Yeah, mind your shirt.",positive,"PERSON:Yes Can, PERSON:Yes Can I, PERSON:Can I",21,spk_0
+7.12,18.0,5,10,"Welcome to our home. Sat Tichit means true consciousness. This is the house which we will  keep in mind that it enhances our consciousness. These are the waste bottles used to build this mud wall,",positive,PERSON:Sat Tichit,35,spk_1
+18.0,21.92,15,20," the colourful reflection on the backside. Oh wow, you have a hand pump at the end. Yeah.",positive,,17,spk_0
+23.04,27.36,20,25, We use the rain water to write this. Let's go.,neutral,,10,spk_0
+27.36,30.08,25,30, It's a tiny bridge.,neutral,,4,spk_3
+34.96,52.32,30,35,"Natural pond. Which is the earth, water, Akash and oil. We say this is like a breathing house.  All our walls are breathing. These are mud walls. This also helps in a temperature balance.  You don't have an air conditioner. Oh, this is an hour dining table. Oh wow.",positive,,49,spk_1
+52.64,53.84,50,55, We sit down.,neutral,,3,spk_2
+55.68,59.04,55,60, 150 year old. We got it from Rajasthan.,neutral,GPE:Rajasthan.,8,spk_1
+61.28,66.48,60,65, We designed this place to enhance our meditation. We have this mud wall. A lot of layers of mud.,neutral,,19,spk_0
+67.44,72.64,65,70," These are, you know, these are the pots which we will tap on the roof. The kitchen.",neutral,,17,spk_0
